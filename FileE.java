@@ -6,7 +6,7 @@ public class FileA {
 		System.out.println("FileC");asdsadsda
 
 		
-		alo
+		alo alo 2
 	}
 
 }

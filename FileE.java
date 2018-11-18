@@ -6,7 +6,12 @@ public class FileA {
 
 		System.out.println("FileC");asdsadsda
 
+<<<<<<< HEAD
 
+=======
+		
+		alo
+>>>>>>> master
 	}
 
 }
